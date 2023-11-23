@@ -1,1 +1,1 @@
-# fault_detection_image-_technique
+# Data mining and type casting
